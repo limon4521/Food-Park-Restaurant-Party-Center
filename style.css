@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    color: white;
+    border-radius: 25px;
+    padding: 10px 20px 10px;
+}
+
+section{
+    display: flex;
+    margin-bottom: 10%;
+    
+}
+
+.half-width{
+    width: 100%;
+}
+.half-width img{
+    width: 100%;
+}
+
+h1{
+    font-size: 50px; 
+    margin-top: 15%;
+}
+h2{
+    font-size: 40px; 
+}
+p{
+    margin-bottom: 5%;
+    margin-top: 3%;
+    text-align: justify;
+}
+.Enjoy-Your-Foods{
+    margin-left: 5%;
+}
+.About-Me{
+    background-color: rgba(255, 149, 158, 0.232);
+    margin: 0%;
+    margin: none;
+
+}
